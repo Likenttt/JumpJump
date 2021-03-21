@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Chuanyi Li built the JumpJump（跳一跳） app as free app. This SERVICE is provided by Chuanyi Li at no cost and is intended for use as is.
 
