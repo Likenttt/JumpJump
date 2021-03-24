@@ -9,8 +9,5 @@ https://paypal.me/lichuanyi?locale.x=en_US
 #### By me a marathon energy gel
 <a href="https://www.buymeacoffee.com/lichuanyi" target="_blank"><img src="./images/buy-me-a-marathon-energy-gel.png" alt="Buy me a marathon energy gel" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-#### 支付宝
-![支付宝](./images/donation-alipay.jpeg)
-
-#### 微信
-![微信支付](./images/donation-wechat-pay.jpeg)
+#### 支付宝&微信支付
+![支付宝&微信支付](./images/alipay-wechatpay.jpg)
