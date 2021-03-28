@@ -34,9 +34,11 @@
 
 ![Overview](./images/family-screenshot.png)
 
+[![Watch the video](./images/tutorial-cover.svg)](https://www.bilibili.com/video/BV1Sp4y1b7Be)
+
 ## Privacy Policy
 
-[隐私协议Privacy Policy](./privacy-policy.md)
+[隐私协议 Privacy Policy](./privacy-policy.md)
 
 ## Donations
 
