@@ -34,7 +34,7 @@
 
 ![Overview](./images/family-screenshot.png)
 
-[![Watch the video](./images/tutorial-cover.svg)](https://www.bilibili.com/video/BV1Sp4y1b7Be)
+[![](./images/tutorial-cover.png)](https://www.bilibili.com/video/BV1Sp4y1b7Be)
 
 ## Privacy Policy
 
