@@ -36,6 +36,15 @@
 
 [![](./images/tutorial-cover.png)](https://www.bilibili.com/video/BV1Sp4y1b7Be)
 
+## ChangeLog
+
+2021-03-24 v0.1: 首次发布. The first buggy release.
+2021-03-25 v0.3: 修复模式切换的问题.Connect总结页底部增加中断次数字段.Fix mode switching bugs;Add interruptions field in the connect summary
+2021-03-27 v0.4: 增加震动和声音反馈. Add vibration and sound feedback;
+2021-03-29 v0.5: 增加版本菜单,修复了几个会导致崩溃的问题. Add version menu item; Fix some crash bugs
+2021-03-29 v0.6 加上一个彩蛋,几个月后会触发.重构部分代码. Add an Easter egg, which will be triggered several months later.Refactored some code.
+2021-03-29 v0.7: 移除735xt支持. Remove 735xt from the support list.
+
 ## Privacy Policy
 
 [隐私协议 Privacy Policy](./privacy-policy.md)
