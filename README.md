@@ -88,7 +88,7 @@ Developing is a hobby to me. if you do enjoy this app, you can buy me a marathon
 #### Paypal
 
 <a href="https://paypal.me/lichuanyi?locale.x=en_US" target="_blank">
-    <img src="./images/donate-with-paypal.svg" alt="Paypal" height="20" />
+    <img src="./images/donate-with-paypal.svg" alt="Paypal" height="40" />
 </a>
 
 #### By me a marathon energy gel
