@@ -12,7 +12,7 @@
 ---
 
 <a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
-    <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" height="100" />
+    <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" height="200" />
 </a>
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 <a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
-    <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" height="100" />
+    <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" height="200" />
 </a>
 
 ---
