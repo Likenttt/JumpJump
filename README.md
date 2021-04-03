@@ -99,4 +99,4 @@ Developing is a hobby to me. if you do enjoy this app, you can buy me a marathon
 
 #### 支付宝&微信支付
 
-![支付宝&微信支付](./images/alipay-wechatpay.jpg)
+![支付宝&微信支付](./images/alipay-wechatpay.png)
