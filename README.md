@@ -88,13 +88,13 @@ Developing is a hobby to me. if you do enjoy this app, you can buy me a marathon
 #### Paypal
 
 <a href="https://paypal.me/lichuanyi?locale.x=en_US" target="_blank">
-    <img src="./images/donate-with-paypal.svg" alt="Paypal" align="left" height="10" />
+    <img src="./images/donate-with-paypal.svg" alt="Paypal" height="20" />
 </a>
 
 #### By me a marathon energy gel
 
 <a href="https://www.buymeacoffee.com/lichuanyi" target="_blank">
-    <img src="./images/buy-me-a-marathon-energy-gel.png" alt="Buy me a marathon energy gel" align="left" height="10">
+    <img src="./images/buy-me-a-marathon-energy-gel.png" alt="Buy me a marathon energy gel" height="20">
 </a>
 
 #### 支付宝&微信支付
