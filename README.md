@@ -8,13 +8,24 @@
 
 :star: Star me on GitHub — it helps!
 [跳一跳](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) 现在已经在佳明应用市场上架, 并曾经登上Trending app的榜首.
+
+---
+
 <a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
     <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" align="left" height="100" />
 </a>
+
+---
+
 [JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) is an awesome jumping rope app for your Garmin watch! You can download this app in the Garmin Connect IQ Store in which this app used to be ranked first.
+
+---
+
 <a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
     <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" align="left" height="100" />
 </a>
+
+---
 
 ## Table of content
 
@@ -44,12 +55,24 @@
 
 ## ChangeLog
 
-2021-03-24 v0.1: 首次发布. The first buggy release.
-2021-03-25 v0.3: 修复模式切换的问题.Connect总结页底部增加中断次数字段.Fix mode switching bugs;Add interruptions field in the connect summary
-2021-03-27 v0.4: 增加震动和声音反馈. Add vibration and sound feedback;
-2021-03-29 v0.5: 增加版本菜单,修复了几个会导致崩溃的问题. Add version menu item; Fix some crash bugs
-2021-03-29 v0.6 加上一个彩蛋,几个月后会触发.重构部分代码. Add an Easter egg, which will be triggered several months later.Refactored some code.
-2021-03-29 v0.7: 移除735xt支持. Remove 735xt from the support list.
+- [v0.9] 2021-03-31
+  愚人节快乐!修复某些数据字段越界问题.Happy April Fools' Day.Fix the problem of some data field numbers out of bounds.
+- [v0.8] 2021-03-30
+  修复一些问题. Fix some bugs.
+- [v0.7] 2021-03-29
+  移除735xt支持. Remove 735xt from the support list.
+- [v0.6] 2021-03-29
+  加上一个彩蛋,几个月后会触发.重构部分代码. Add an Easter egg, which will be triggered several months later; Refactor some code.
+- [v0.5] 2021-03-29
+  增加版本和重置模式菜单,修复了几个会导致崩溃的问题. Add new menu items 'Version' & 'Reset mode'; Fix some crash bugs
+- [v0.4] 2021-03-27
+  增加震动和声音反馈. Add vibration and sound feedback;
+- [v0.3] 2021-03-26
+  修复模式切换的问题.Connect总结页底部增加中断次数字段.Fix mode switching bugs; Add 'interruptions' data field at the bottom of Connect summary page.
+- [v0.2] 2020-03-25
+  解决一些导致异常崩溃的问题. Fix some problems that may cause an unexpected crash.
+- [v0.1] 2021-03-24
+  首次发布. The first release.
 
 ## Privacy Policy
 
@@ -65,13 +88,13 @@ Developing is a hobby to me. if you do enjoy this app, you can buy me a marathon
 #### Paypal
 
 <a href="https://paypal.me/lichuanyi?locale.x=en_US" target="_blank">
-    <img src="./images/donate-with-paypal.svg" alt="Paypal" style="height: 10px !important;width: 50px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"/>
+    <img src="./images/donate-with-paypal.svg" alt="Paypal" align="left" height="10" />
 </a>
 
 #### By me a marathon energy gel
 
 <a href="https://www.buymeacoffee.com/lichuanyi" target="_blank">
-    <img src="./images/buy-me-a-marathon-energy-gel.png" alt="Buy me a marathon energy gel" style="height: 10px !important;width: 50px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"/>
+    <img src="./images/buy-me-a-marathon-energy-gel.png" alt="Buy me a marathon energy gel" align="left" height="10">
 </a>
 
 #### 支付宝&微信支付
