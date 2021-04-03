@@ -7,14 +7,20 @@
 > A Garmin app for jumping rope. 一款佳明平台跳绳app
 
 :star: Star me on GitHub — it helps!
-[跳一跳](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) 现在已经在佳明应用市场上架.
-
-[JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) is an awesome jumping rope app for your Garmin watch! You can download this app in the Garmin Connect IQ Store.
+[跳一跳](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) 现在已经在佳明应用市场上架, 并曾经登上Trending app的榜首.
+<a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
+    <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" align="left" height="100" />
+</a>
+[JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) is an awesome jumping rope app for your Garmin watch! You can download this app in the Garmin Connect IQ Store in which this app used to be ranked first.
+<a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
+    <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" align="left" height="100" />
+</a>
 
 ## Table of content
 
 - [安装 Installation](#installation)
 - [UI一览 Overview](#overview)
+- [更新记录ChangeLog](#changelog)
 - [隐私协议 Privacy Policy](#privacy-policy)
 - [捐赠 Donations](#donations)
 
