@@ -1,101 +1,63 @@
-<strings>
+<resources>
 	<string id="AppName">JumpJump</string>
-	<string id="counter">COUNT</string>
-	<string id="timer">TIMER</string>
-	<string id="interruptions">INTERRUPTIONS</string>
-	<string id="total">Jumps</string>
-	<string id="calories">Calories</string>
-	<string id="timeUsed">Time</string>
-	<string id="total">Jumps</string>
-	<string id="menuByTime">Time</string>
-	<string id="menuByTimeSublabel">Set jumping time</string>
-	<string id="menuByNumber">Count</string>
-	<string id="menuByNumberSublabel">Set jumping number</string>
-	<string id="menuCalibrate">Calibrate</string>
-	<string id="mode">Mode</string>
-	<string id="startDelay">Delay</string>
-	<string id="settings">Settings</string>
-	<string id="timePickerTitle">Minutes</string>
 
-	<string id="delaySecondsPickerTitle">Seconds</string>
+    <string id="counter">COUNT</string>
+    <string id="timer">TIMER</string>
+    <string id="interruptions">INTERRUPTIONS</string>
+    <string id="calories">Calories</string>
+    <string id="timeUsed">Time</string>
+    <string id="total">Jumps</string>
+    <string id="menuByTime">Time</string>
+    <string id="menuByNumber">Count</string>
+    <string id="menuCalibrate">Calibrate</string>
+    <string id="mode">Mode</string>
+    <string id="startDelay">Delay</string>
+    <string id="settings">Settings</string>
+    <string id="timePickerTitle">Minutes</string>
+    <string id="counterGoalPickerTitle">Set a Goal</string>
+    <string id="currentActiveMode">Active:</string>
+    <string id="currentActiveModeByTime">Time</string>
+    <string id="currentActiveModeByNumber">Count</string>
+    <string id="currentActiveModeDefault">Default</string>
+    <string id="currentDelaySecondsPrefix">Seconds delay:</string>
 
-	<string id="counterGoalPickerTitle">Set a Goal</string>
-	<string id="currentActiveMode">Active:</string>
-	<string id="currentActiveModeByTime">Time</string>
-	<string id="currentActiveModeByNumber">Count</string>
-	<string id="resetMode">Reset Mode</string>
+    <string id="resetSettings">Reset Settings</string>
+    <string id="resetSettingsSublabel">Reset above to default</string>
+    <string id="resetSettingSuccessReminder">Reset successfully!</string>
+    <string id="discardingPrompt">Discarding...</string>
+    <string id="savingPrompt">Saving...</string>
+    <string id="savingMenu">Save</string>
+    <string id="resumeMenu">Resume</string>
+    <string id="discardMenu">Discard</string>
+    <string id="delaySecondsPickerTitle">Seconds</string>
+    <string id="countDownStringTemplate">Start after $1$ seconds</string>
 
 
-	<string id="currentActiveModeDefault">Default</string>
-	<string id="currentDelaySecondsPrefix">Seconds delay:</string>
-
-
-	<string id="resetSettings">Reset Settings</string>
-	<string id="resetSettingsSublabel">Reset above to default</string>
-	<string id="resetSettingSuccessReminder">
-		Reset successfully!
-	</string>
-
-	<string id="discardingPrompt">Discarding...</string>
-	<string id="savingPrompt">Saving...</string>
-	<string id="savingMenu">Save</string>
-	<string id="resumeMenu">Resume</string>
-	<string id="discardMenu">Discard</string>
-	<string id="countDownStringTemplate">Start after $1$ seconds</string>
-
-	<string id="jumpCountLabel">Count</string>
-	<string id="jumpTimeLabel">Time</string>
-	<string id="jumpSpeedLabel">Speed</string>
-	<string id="jumpSpeedUnits">jumps/min</string>
-	<string id="jumpCountUnits">jumps</string>
-	<string id="jumpTimeUnits">hh:mm:ss</string>
-	<string id="jumpInterruptionsLabel">Interruptions</string>
+    <string id="jumpCountLabel">Count</string>
+    <string id="jumpTimeLabel">Time</string>
+    <string id="jumpSpeedLabel">Speed</string>
+    <string id="jumpSpeedUnits">jumps/min</string>
+    <string id="jumpCountUnits">jumps</string>
+    <string id="jumpTimeUnits">hh:mm:ss</string>
+    <string id="jumpInterruptionsLabel">Interruptions</string>
     <string id="jumpInterruptionsUnits">times</string>
-	
-	<string id="jumpCountLabelBySec">Grand total</string>
+    <string id="jumpCountLabelBySec">Grand total</string>
 	<string id="jumpCountUnitsBySec">jumps</string>
-	<string id="resetModePrompt">Mode reset!</string>
-	<string id="version">Version</string>
-	<string id="jumpGraphLabel">Speed</string>
-	<string id="jumpGraphDataLabel">Speed</string>	
+
+    <string id="resetMode">Default</string>
+    <string id="resetModePrompt">Mode reset!</string>
+    <string id="version">Version</string>
+    <string id="jumpGraphLabel">Speed</string>
+    <string id="jumpGraphDataLabel">Speed</string>	
 	<string id="jumpGraphLabelUnit">jumps/min</string>
-	<string id="hr">HR</string>
-	<string id="yes">Yes</string>
+    <string id="hr">HR</string>
+    <string id="yes">Yes</string>
 	<string id="no">No</string>
-	
-	<string id="steps">Steps</string>
-	<string id="stepsUnits">steps</string>
 
-	
-
-
-
-	<string id="counter">COUNT</string>
-	<string id="timer">TIMER</string>
-	<string id="heartRateModeTitle">HR mode</string>
-	<string id="showHeartRateZoneTitle">HR zone</string>
-	<string id="showSpeedInsteadOfPace">Use speed</string>
-	<string id="darkMode">Black</string>
-	<string id="modeInstant">Instant</string>
-	<string id="mode5Seconds">5 sec avg</string>
-	<string id="mode10Seconds">10 sec avg</string>
-	<string id="mode30Seconds">30 sec avg</string>
-	<string id="mode60Seconds">60 sec avg</string>
-	<string id="averageStepsPerKm">Avg Steps / KM</string>
-	<string id="averageStepsPerMile">Avg Steps / Mile</string>
-	<string id="averageStepsPerHour">Avg Steps / Hour</string>
-	<string id="stepsPerKm">Steps / KM</string>
-	<string id="stepsPerMile">Steps / Mile</string>
-	<string id="stepsPerHour">Steps / Hour</string>
-
-	<string id="backgroundColor">Background Color</string>
+    <string id="backgroundColor">Background Color</string>
 	<string id="black">Black</string>
 	<string id="white">White</string>
 	<string id="heartRateZone">Show heart rate zone</string>
     <string id="heartRateZonePrompt">If turned on, a number representing contemporary heart rate will be displayed in the center of the heart on the screen</string>
-	<string id="helpUrl">https://github.com/Likenttt/JumpJump</string>
-
-
-
-</strings>
-
+    <string id="helpUrl">https://github.com/Likenttt/JumpJump</string>
+</resources>
