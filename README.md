@@ -2,13 +2,9 @@
     <img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177/icon/0ff22b34-19de-40e4-bce6-bbfbe0cca502" alt="JumpJump Logo" title="JumpJump" align="right" height="60" />
 </a>
 
-[![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
-
 # JumpJump
 
-跳绳应用[跳一跳](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177)现在已经在佳明应用市场上架, 并曾经数次登上 Trending app 的榜首.
-
----
+[JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177)现在已经在佳明应用市场上架.
 
 <a href="https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177">
     <img src="./images/trending-app.png" alt="JumpJump Trending app" title="JumpJump" height="200" />
